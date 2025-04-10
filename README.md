@@ -1,3 +1,5 @@
+![Pinchflat Logo](images/logo.png)
+
 # Pinchflat Plex Integration
 
 > ⚠️ **Important!**  
