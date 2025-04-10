@@ -11,7 +11,7 @@
 This is a custom set of **Scanner** and **Agent** modules to integrate **Pinchflat** with Plex.  
 
 > ⚠️ **Important!**  
-> Use this at your own risk. 
+> Use this at your own risk. It is an alpha release and while it works, may not work well.
 > I made this integration for myself and myself only. I will likely not be providing much support for it.
 
 ---
