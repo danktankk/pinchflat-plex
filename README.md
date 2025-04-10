@@ -10,7 +10,7 @@ This is a custom set of **Scanner** and **Agent** modules to integrate **Pinchfl
 
 > ⚠️ **Important!**  
 > Use this at your own risk. 
-> I made this integration for myself and myself only and I will likely not be providing much support for it.
+> I made this integration for myself and myself only. I will likely not be providing much support for it.
 
 ---
 
