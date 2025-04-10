@@ -3,7 +3,7 @@
     { "id": "media_poster_source", "label": "Media Poster", "type": "enum", "default": "Channel", "values": ["Channel", "Episode"] },
     { "id": "pinchflat_username", "label": "Pinchflat Username", "type": "text", "default": "" },
     { "id": "pinchflat_password", "label": "Pinchflat Password", "type": "text", "default": "" },
-    { "id": "pinchflat_url", "label": "Pinchflat URL", "type": "text", "default": "https://pinchflat.dankk.me" },
+    { "id": "pinchflat_url", "label": "Pinchflat URL", "type": "text", "default": "" },
     { "id": "show_channel_id", "label": "Append Channel ID to end of Channel Name", "type": "bool", "default": "true" }
   ]
-  
+
