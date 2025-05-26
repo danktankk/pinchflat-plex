@@ -1,4 +1,9 @@
-![Pinchflat Logo](images/logo.png)
+<p align="center">
+  <video controls autoplay loop muted width="800">
+    <source src="pinchflat_plex_agent.mp4" type="video/mp4">
+    Your browser doesn’t support the <code>&lt;video&gt;</code> tag.
+  </video>
+</p>
 
 # Pinchflat Plex Integration
 
