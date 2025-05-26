@@ -1,9 +1,39 @@
 [
-    { "id": "add_user_as_director", "label": "Set YouTube usernames as director in metadata", "type": "bool", "default": "true" },
-    { "id": "media_poster_source", "label": "Media Poster", "type": "enum", "default": "Channel", "values": ["Channel", "Episode"] },
-    { "id": "pinchflat_username", "label": "Pinchflat Username", "type": "text", "default": "" },
-    { "id": "pinchflat_password", "label": "Pinchflat Password", "type": "text", "default": "" },
-    { "id": "pinchflat_url", "label": "Pinchflat URL", "type": "text", "default": "http://tubearchivist.local" },
-    { "id": "show_channel_id", "label": "Append Channel ID to end of Channel Name", "type": "bool", "default": "true" }
-  ]
-
+  {
+    "id": "add_user_as_director",
+    "label": "Set YouTube channel name as director for episodes",
+    "type": "bool",
+    "default": "true"
+  },
+  {
+    "id": "media_poster_source",
+    "label": "Preferred Poster Source (Channel vs Episode)",
+    "type": "enum",
+    "default": "Channel",
+    "values": ["Channel", "Episode"]
+  },
+  {
+    "id": "pinchflat_username",
+    "label": "Pinchflat Username (if API use is implemented)",
+    "type": "text",
+    "default": ""
+  },
+  {
+    "id": "pinchflat_password",
+    "label": "Pinchflat Password",
+    "type": "text",
+    "default": ""
+  },
+  {
+    "id": "pinchflat_url",
+    "label": "Pinchflat Base URL (with http:// or https://)",
+    "type": "text",
+    "default": "https://pinchflat.yourdomain.com"
+  },
+  {
+    "id": "show_channel_id",
+    "label": "Append Channel ID to Channel Name in Plex",
+    "type": "bool",
+    "default": "true"
+  }
+]
