@@ -2,7 +2,7 @@
   <img src="./images/pinchflat_plex_agent.gif" alt="Pinchflat Plex Agent" />
 </p>
 
-# Pinchflat Plex Integration
+# Pinchflat Plex Agent
 
 > ⚠️ **Important!**  
 > This integration was made possible thanks to the original work by [TubeArchivist Plex](https://github.com/tubearchivist/tubearchivist-plex).
