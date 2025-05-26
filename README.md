@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pinchflat_plex_agent.gif" alt="Pinchflat Plex Agent" />
+  <img src="./images/pinchflat_plex_agent.gif" alt="Pinchflat Plex Agent" />
 </p>
 
 # Pinchflat Plex Integration
