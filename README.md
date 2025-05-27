@@ -22,7 +22,7 @@ This is a custom set of **Scanner** and **Agent** modules to integrate **Pinchfl
 ## 🚫 Limitations
 
 - This integration requires both the custom **Scanner** and **Agent** to be installed and active in Plex.
-- It is built for integration with a **single Pinchflat instance**. TRhere is no Multi-instance support.
+- It is built for integration with a **single Pinchflat instance**. There is no multi-instance support.
 - **Pinchflat must be online and accessible** during Plex filesystem scans and metadata refreshes.
 - If Plex cannot reach Pinchflat, metadata updates may **fail or be skipped**.
 - This is an **early build**. Some features may be missing or buggy.
