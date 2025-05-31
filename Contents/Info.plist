@@ -4,7 +4,7 @@
 <plist version="1.0">
 <dict>
     <key>CFBundleIdentifier</key>
-    <string>com.plexapp.agents.pinchflat_agent</string>
+    <string>com.plexapp.agents.pinchflat</string>
     <key>PlexFrameworkVersion</key>
     <string>2</string>
     <key>PlexPluginClass</key>
